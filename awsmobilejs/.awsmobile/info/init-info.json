@@ -1,0 +1,40 @@
+{
+	"projectPath": "/Users/resdan/website-react",
+	"projectInfo": {
+		"ProjectName": "website-react",
+		"ProjectPath": "/Users/resdan/website-react",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react"
+	},
+	"packageJson": {
+		"name": "ekm-website",
+		"version": "0.1.0",
+		"private": true,
+		"dependencies": {
+			"react": "^16.3.2",
+			"react-dom": "^16.3.2",
+			"react-scripts": "1.1.4"
+		},
+		"scripts": {
+			"start": "react-scripts start",
+			"build": "react-scripts build",
+			"test": "react-scripts test --env=jsdom",
+			"eject": "react-scripts eject"
+		}
+	},
+	"framework": "react",
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
